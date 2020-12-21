@@ -20,15 +20,15 @@ The API I am using is from the NYT: I have saved controlled vocabularies and art
 Here is JSON retrieved from Postman: 
 
 
-![image 1] (./Screen%20Shot%202020-12-20%20at%206.49.24%20PM.png "Snippet 1")
-![image 2] (./Screen%20Shot%202020-12-20%20at%206.49.38%20PM.png "Snippet 2")
+![image 1](./assets/snippetJSON.png)
+![image 2](./assets/snippet2JSON.png)
                            
 
 ### Wireframes
 
 Here is a wireframe for this project.
 
-! [wireframe] (./Screen%20Shot%202020-12-21%20at%2011.06.15%20AM.png "Wireframe")
+! [wireframe](/assets/wireFrame.png)
 
 
 
