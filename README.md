@@ -72,24 +72,13 @@ Day 6 (Dec 28): Possible post-MVP options: bring in videos or pictures or record
 ### Timeframes
 
 
-Day. |   Date. |   Hours                                                                                                                         |actual| total|
-
-Day 1| (Dec 21)|: Evening|: three hours to do pseudocoding and initial trials                                                                     |     |.     |
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 2| (Dec 22)|: Three hours in afternoon.  Three hours in evening. Pseudocoding: Structure the html, css, and finish any more JS for the site. |     |.     |
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Day 3|(Dec 23)|: Three hours in afternoon. Three hours in evening. Continue working out css, html, and JS bugs.                                 |     |.     |
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Day 4| (Dec 26)|: Three hours in afternoon. Three hours in evening. Testing                                                                      |.    |      |
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Day 5| (Dec 27)|: Three hours in afternoon. Three hours in evening. Hopefully the site will work by this time!                                   |     |      |
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 6| (Dec 28)|: Three hours in afternoon. Three hours in evening. Possible post-MVP options: bring in videos or pictures or recordings         |     |      |
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Day \# | Date   | Task                                                                         | Hours projected | Hours completed | Hours total |   |   |   |
+|--------|--------|------------------------------------------------------------------------------|-----------------|-----------------|-------------|---|---|---|
+| Day 1  | Dec 21 | finishing readme and initial trials                                          | 3               |                 |             |   |   |   |
+| Day 2  | Dec 22 | Pseudocoding: Structure the html, css, and finish any more JS for the site\. | 6               |                 |             |   |   |   |
+| Day 3  | Dec 23 | Continue working out css, html, and JS bugs\.                                | 6               |                 |             |   |   |   |
+| Day 4  | Dec 26 | Testing                                                                      | 6               |                 |             |   |   |   |
+| Day 5  | Dec 27 | Hopefully the site will work by this time\!                                  | 6               |                 |             |   |   |   |
+| Day 6  | Dec 28 | Possible post\-MVP options: bring in videos or pictures or recordings        | 6               |                 |             |   |   |   |
 
 
