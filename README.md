@@ -28,7 +28,7 @@ Here is JSON retrieved from Postman:
 
 Here is a wireframe for this project.
 
-! [wireframe](/assets/wireFrame.png)
+![wireframe](/assets/wireFrame.png)
 
 
 
