@@ -66,7 +66,7 @@ Day 6 (Dec 28): Possible post-MVP options: bring in videos or pictures or record
 
 ### Track Progress
 
-![image 1] (./assets/matrix.png)
+![image 1](./assets/matrix.png)
 
 ### Timeframes
 
