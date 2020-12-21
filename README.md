@@ -77,7 +77,7 @@ Day 6 (Dec 28): Possible post-MVP options: bring in videos or pictures or record
 
 ### Track Progress
 
-CLOUDINARY_URL=cloudinary://283833624921181:VqxWGNEzPT-6xjy4If4d8UsR2Qk@dwjcfreys
+https://cloudinary.com/console/c-ea108e0825ef68419524c2397bda7f
 
 ### Timeframes
 
