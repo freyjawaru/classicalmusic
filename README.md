@@ -18,35 +18,9 @@ The API I am using is from the NYT: I have saved controlled vocabularies and art
 ### API Snippet:
 
 Here is JSON retrieved from Postman: 
-{
-    "status": "OK",
-    "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
-    "response": {
-        "docs": [
-            {
-                "abstract": "The pandemic compressed live music onto screens, and Black Lives Matter protests brought it back to the streets. What will it all look like, and sound like, in 2021?",
-                "web_url": "https://www.nytimes.com/2020/12/17/arts/music/jazz-covid-19-black-lives-matter.html",
-                "snippet": "The pandemic compressed live music onto screens, and Black Lives Matter protests brought it back to the streets. What will it all look like, and sound like, in 2021?",
-                "lead_paragraph": "When concerts and in-person gatherings shut down this spring, livestreamed shows quickly started to feel like a glorified last resort. I found myself avoiding them. But a Facebook video caught my eye one day in June, of the trombonist Craig Harris performing at the Brooklyn Botanic Garden. Accompanied by the keyboardist Pete Drungle, framed by a flowering grove and a trellis, he played “Breathe,” a suite of concise and soothing music that sounds like the sum of Mr. Harris’s experiences on the New York scene since the 1970s.",
-                "source": "The New York Times",
-                "multimedia": [
-                    {
-                        "rank": 0,
-                        "subtype": "xlarge",
-                        "caption": null,
-                        "credit": null,
-                        "type": "image",
-                        "url": "images/2020/12/17/arts/17jazz-essay5/merlin_181290435_8afbf528-d227-4cc5-8a31-73397fd388ff-articleLarge.jpg",
-                        "height": 594,
-                        "width": 600,
-                        "legacy": {
-                            "xlarge": "images/2020/12/17/arts/17jazz-essay5/merlin_181290435_8afbf528-d227-4cc5-8a31-73397fd388ff-articleLarge.jpg",
-                            "xlargewidth": 600,
-                            "xlargeheight": 594
-                        },
-                        "subType": "xlarge",
-                        "crop_name": "articleLarge"
-                    },
+https://i.imgur.com/M5xkQmI.png
+https://i.imgur.com/tPYFR9n.png
+                           
 
 ### Wireframes
 
