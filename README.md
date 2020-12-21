@@ -20,15 +20,15 @@ The API I am using is from the NYT: I have saved controlled vocabularies and art
 Here is JSON retrieved from Postman: 
 
 
-![image 1] (https://github.com/freyjawaru/classicalmusic/blob/main/Screen%20Shot%202020-12-20%20at%206.49.24%20PM.png "Snippet 1")
-![image 2] (https://github.com/freyjawaru/classicalmusic/blob/main/Screen%20Shot%202020-12-20%20at%206.49.38%20PM.png "Snippet 2")
+![image 1] (./Screen%20Shot%202020-12-20%20at%206.49.24%20PM.png "Snippet 1")
+![image 2] (./Screen%20Shot%202020-12-20%20at%206.49.38%20PM.png "Snippet 2")
                            
 
 ### Wireframes
 
 Here is a wireframe for this project.
 
-! [wireframe] (https://github.com/freyjawaru/classicalmusic/blob/main/Screen%20Shot%202020-12-21%20at%2011.06.15%20AM.png "Wireframe")
+! [wireframe] (./Screen%20Shot%202020-12-21%20at%2011.06.15%20AM.png "Wireframe")
 
 
 
@@ -66,7 +66,7 @@ Day 6 (Dec 28): Possible post-MVP options: bring in videos or pictures or record
 
 ### Track Progress
 
-![image 1] (https://github.com/freyjawaru/classicalmusic/blob/main/Screen%20Shot%202020-12-21%20at%2010.56.52%20AM.png "Track Progress")
+![image 1] (./Screen%20Shot%202020-12-21%20at%2010.56.52%20AM.png "Track Progress")
 
 ### Timeframes
 
