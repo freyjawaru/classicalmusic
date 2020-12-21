@@ -18,15 +18,20 @@ The API I am using is from the NYT: I have saved controlled vocabularies and art
 ### API Snippet:
 
 Here is JSON retrieved from Postman: 
-https://i.imgur.com/M5xkQmI.png
-https://i.imgur.com/tPYFR9n.png
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+![image 1] (https://i.imgur.com/M5xkQmI.png "Snippet 1")
+![image 2] (https://i.imgur.com/tPYFR9n.png "Snippet 2")
                            
 
 ### Wireframes
 
 Here is a wireframe for this project.
 
-https://wireframepro.mockflow.com/editor.jsp?editor=on&bgcolor=white&perm=Create&ptitle=Classical%20Music%20Reviews%20NYT&category=form&projectid=Me09cbd68b4781cf91c86ec0d9df852bc1608509893174&publicid=c3d90433e60141c6a82a3a59be52b119#/page/35d431a2d0f34a748790716282f96478
+! [wireframe] (https://i.imgur.com/NRPn37L.png "Wireframe")
+
+
 
 ### MVP
 
@@ -40,7 +45,7 @@ These are the features needed to meet the Minimum Viable Product:
 
 Additional feature could include deeper search parameters, other kinds of classical-music-related searches (such as books), videos and picture results
 
-### Goals Pseudocoding, Design, HTML, CSS, JavaScript, Testing, etc) 
+### Goals
 
 
 Day 1 (Dec 21): Project pitch due. Evening: Pseudocoding to work out initial code to get event listeners working and retrieve the data from the site.
@@ -62,27 +67,29 @@ Day 6 (Dec 28): Possible post-MVP options: bring in videos or pictures or record
 
 ### Track Progress
 
-https://www.meistertask.com/app/project/l9QhdP9Y/classical-music-search
+![image 1] (https://i.imgur.com/gYCeIuj.png "Track Progress")
 
 ### Timeframes
 
-Day 1 (Dec 21): Evening: three hours to do pseudocoding and initial trials
 
+Day. |   Date. |   Hours                                                                                                                         |actual| total|
 
-Day 2 (Dec 22): Three hours in afternoon.  Three hours in evening. Pseudocoding: Structure the html, css, and finish any more JS for the site. 
+Day 1| (Dec 21)|: Evening|: three hours to do pseudocoding and initial trials                                                                     |     |.     |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 2| (Dec 22)|: Three hours in afternoon.  Three hours in evening. Pseudocoding: Structure the html, css, and finish any more JS for the site. |     |.     |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Day 3|(Dec 23)|: Three hours in afternoon. Three hours in evening. Continue working out css, html, and JS bugs.                                 |     |.     |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Day 3 (Dec 23): Three hours in afternoon. Three hours in evening. Continue working out css, html, and JS bugs. 
+Day 4| (Dec 26)|: Three hours in afternoon. Three hours in evening. Testing                                                                      |.    |      |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Day 5| (Dec 27)|: Three hours in afternoon. Three hours in evening. Hopefully the site will work by this time!                                   |     |      |
 
-Day 4 (Dec 26): Three hours in afternoon. Three hours in evening. Testing
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 6| (Dec 28)|: Three hours in afternoon. Three hours in evening. Possible post-MVP options: bring in videos or pictures or recordings         |     |      |
 
-
-Day 5 (Dec 27): Three hours in afternoon. Three hours in evening. Hopefully the site will work by this time!
-
-
-Day 6 (Dec 28): Three hours in afternoon. Three hours in evening. Possible post-MVP options: bring in videos or pictures or recordings
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
