@@ -35,7 +35,7 @@ Here is a wireframe for this project.
 ### MVP
 
 These are the features needed to meet the Minimum Viable Product:
-1. Interactive search feature
+1. Interactive search feature: using an axios call to retrieve that information
 2. Lists of results and links to the NYT page
 3. Ability to search by relevance
 4. (NB: the difficulty of putting together this app will be dealing with the NYT controlled vocabularies, which seem to be problematic)
