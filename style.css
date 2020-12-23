@@ -1,82 +1,54 @@
-body {
-  text-align: center;
-  background-color: #b8d8d8
-}
+/* /this code is from the Holy Grail workshop in class/* */
 
-header {
-  background: #black;
+ header {
+
   padding: 100px;
   border-bottom-style: solid;
-  
+  background-image: url("https://i.imgur.com/13m1TB1.jpg");
   background-size: 600px;
   background-repeat: no-repeat;
   background-position: center;
-  border-bottom-color: #f542ef;
+  background-color: black;
+  border-bottom-color: #990100;
   border-bottom-width: 2px; 
+  box-sizing: border-box;
+} 
+
+body {
   
-  
-}
-.container {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
 }
-.sf {
-  background-image: url("https://i.imgur.com/13m1TB1.jpg");
-  width: 250px;
-  height: 250px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.sf-nest {
-  background-color: transparent;
-  width: 100px;
-  height: 100px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+article {
+  background-color: #ece2d0;
+  padding: 50px;
+  box-sizing: border-box;
 }
 
-.new-york {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2522641/new-york.jpg");
-  width: 250px;
-  height: 250px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.left {
+  background-image: url("https://i.imgur.com/d0ygTPm.jpg");
+  background-size: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: black;
+  padding: 50px;
+  box-sizing: border-box;
 }
-.new-york-nest {
-  background-color: transparent;
-  width: 100px;
-  height: 100px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.right {
+  background-image: url("https://i.imgur.com/YWVZhap.jpg");
+  background-size: 300px;
+  background-position: center;
+  padding: 50px;
+  box-sizing: border-box;
 }
-.London {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2522641/london.jpg");
-  width: 250px;
-  height: 250px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.London-nest{
-  background-color: transparent;
-  width: 100px;
-  height: 100px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 
 h1 {
   text-align: center;
   font-family:'Times New Roman', Times, serif; 
   font-size: 28px;
   text-align: center;
-  color: white;
+  color: black;
 
 
 }
@@ -103,6 +75,7 @@ button {
   color: white;
   padding: 8px;
   border-radius: 15px;
+  background-color: #990100;
 }
 
 .search-section {
@@ -116,7 +89,47 @@ button {
 
 .article-list {
 display: flex;
-flex-wrap: wrap;
+flex-wrap: wrap; 
+}
+/* /* setting up colors & padding */
 
 
+footer {
+  background-color: #990100;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+header,
+footer {
+  flex: 0 100px;
+}
+main {
+  display: flex;
+  flex: 1;
+}
+article {
+  order: 2;
+  flex: 3;
+}
+aside {
+  flex: 0 100px;
+}
+.left {
+  order: 1;
+}
+.right {
+  order: 3
+}
+@media screen and (max-width: 1025px) {
+  main {
+    flex-direction: column;
+  }
+  article {
+    order: 0;
+    flex: 1 200px;
+  }
+  aside {
+    flex: 0;
+  }
 }
