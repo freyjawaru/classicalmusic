@@ -3,12 +3,10 @@ header {
   padding: 100px;
   border-bottom-style: solid;
   background-image: url('https://i.imgur.com/13m1TB1.jpg');
-  background-size: 600px;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   background-color: black;
-  border-bottom-color: #990100;
-  border-bottom-width: 2px;
   box-sizing: border-box;
 }
 body {
@@ -49,10 +47,15 @@ h2 {
   font-size: 24px;
   text-align: center;
 }
+a{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: center;
+}
 input {
   padding: 8px;
   border-radius: 2px;
-  border-radius: 14%;
+  border-radius: 15px;
   margin: 5px;
 }
 img {
@@ -92,8 +95,7 @@ footer {
   padding: 50px;
   box-sizing: border-box;
 }
-header,
-footer {
+header {
   flex: 0 100px;
 }
 main {
@@ -134,4 +136,10 @@ aside {
   #blank {
     margin: 0 25px 0 0;
   }
+}
+footer{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+  text-align: center;
+  color: #ece2d0;
 }
