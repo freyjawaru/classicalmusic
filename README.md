@@ -37,8 +37,7 @@ Here is a wireframe for this project.
 These are the features needed to meet the Minimum Viable Product:
 1. Interactive search feature: using an axios call to retrieve that information
 2. Lists of results and links to the NYT page
-3. Ability to search by relevance
-4. (NB: the difficulty of putting together this app will be dealing with the NYT controlled vocabularies, which seem to be problematic)
+3. (NB: the difficulty of putting together this app will be dealing with the NYT controlled vocabularies, which seem to be problematic)
 
 ### Post MVP
 
@@ -73,11 +72,11 @@ Day 6 (Dec 28): Possible post-MVP options: bring in videos or pictures or record
 
 | Day \# | Date   | Task                                                                         | Hours projected | Hours completed | Hours total |   |   |   |
 |--------|--------|------------------------------------------------------------------------------|-----------------|-----------------|-------------|---|---|---|
-| Day 1  | Dec 21 | finishing readme and initial trials                                          | 3               |                 |             |   |   |   |
-| Day 2  | Dec 22 | Pseudocoding: Structure the html, css, and finish any more JS for the site\. | 6               |                 |             |   |   |   |
-| Day 3  | Dec 23 | Continue working out css, html, and JS bugs\.                                | 6               |                 |             |   |   |   |
-| Day 4  | Dec 26 | Testing                                                                      | 6               |                 |             |   |   |   |
-| Day 5  | Dec 27 | Hopefully the site will work by this time\!                                  | 6               |                 |             |   |   |   |
-| Day 6  | Dec 28 | Possible post\-MVP options: bring in videos or pictures or recordings        | 6               |                 |             |   |   |   |
+| Day 1  | Dec 21 | finishing readme and initial trials                                          | 3               |    7             |     7        |   |   |   |
+| Day 2  | Dec 22 | Pseudocoding: Structure the html, css, and finish any more JS for the site\. | 6               |     7            |     7        |   |   |   |
+| Day 3  | Dec 23 | Continue working out css, html, and JS bugs\.                                | 6               |     5            |      5       |   |   |   |
+| Day 4  | Dec 26 | Testing                                                                      | 6               |     3            |      3       |   |   |   |
+| Day 5  | Dec 27 | Hopefully the site will work by this time\!                                  | 6               |     3            |       3      |   |   |   |
+| Day 6  | Dec 28 | Possible post\-MVP options: bring in videos or pictures or recordings        | 6               |     4            |        4     |   |   |   |
 
 
