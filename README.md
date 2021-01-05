@@ -71,14 +71,15 @@ Day 6 (Dec 28): Possible post-MVP options: bring in videos or pictures or record
 ### Timeframes
 
 
-| Day \# | Date   | Task                                                                         | Hours projected | Hours completed | Hours total |   |   |   |
-|--------|--------|------------------------------------------------------------------------------|-----------------|-----------------|-------------|---|---|---|
-| Day 1  | Dec 21 | finishing readme and initial trials                                          | 3               |    7             |     7        |   |   |   |
-| Day 2  | Dec 22 | Pseudocoding: Structure the html, css, and finish any more JS for the site\. | 6               |     7            |     7        |   |   |   |
-| Day 3  | Dec 23 | Continue working out css, html, and JS bugs\.                                | 6               |     5            |      5       |   |   |   |
-| Day 4  | Dec 26 | Testing                                                                      | 6               |     3            |      3       |   |   |   |
-| Day 5  | Dec 27 | Hopefully the site will work by this time\!                                  | 6               |     3            |       3      |   |   |   |
-| Day 6  | Dec 28 | Possible post\-MVP options: bring in videos or pictures or recordings        | 6               |     4            |        4     |   |   |   |
+| Day # | Date   | Task                                                                        | Hours projected | Hours completed | Hours total |   |   |   |
+|-------|--------|-----------------------------------------------------------------------------|-----------------|-----------------|-------------|---|---|---|
+| Day 1 | Dec 21 | finishing readme and initial trials                                         | 3               | 7               | 7           |   |   |   |
+| Day 2 | Dec 22 | Pseudocoding: Structure the html, css, and finish any more JS for the site. | 6               | 7               | 7           |   |   |   |
+| Day 3 | Dec 23 | Continue working out css, html, and JS bugs.                                | 6               | 5               | 7           |   |   |   |
+| Day 4 | Dec 26 | Testing                                                                     | 6               | 3               | 3           |   |   |   |
+| Day 5 | Dec 27 | Hopefully the site will work by this time!                                  | 6               | 5               | 5           |   |   |   |
+| Day 6 | Dec 28 | Possible post-MVP options: bring in videos or pictures or recordings        | 6               | 5               | 5           |   |   |   |
+
 
 ### Code Snippet
 This is a function pulling the byline, or author's name; the article title; and an image related to each article.
