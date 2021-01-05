@@ -37,7 +37,8 @@ Here is a wireframe for this project.
 These are the features needed to meet the Minimum Viable Product:
 1. Interactive search feature: using an axios call to retrieve that information
 2. Lists of results and links to the NYT page
-3. (NB: the difficulty of putting together this app will be dealing with the NYT controlled vocabularies, which seem to be problematic)
+3. Media query for responsive design
+(NB: the difficulty of putting together this app will be dealing with the NYT controlled vocabularies, which seem to be problematic)
 
 ### Post MVP
 
@@ -79,4 +80,27 @@ Day 6 (Dec 28): Possible post-MVP options: bring in videos or pictures or record
 | Day 5  | Dec 27 | Hopefully the site will work by this time\!                                  | 6               |     3            |       3      |   |   |   |
 | Day 6  | Dec 28 | Possible post\-MVP options: bring in videos or pictures or recordings        | 6               |     4            |        4     |   |   |   |
 
+### Code Snippet
+This is a function pulling the byline, or author's name; the article title; and an image related to each article.
+  function displayArticles(articles) {
+    articles.forEach((article) => {
+      let articleDiv = document.createElement("div")
+      articleDiv.innerHTML = `
+    <a href="${article.web_url}">${article.headline.main}</a>
+    <p>${article.byline.original}</p>
+    <img src="https://static01.nyt.com/${article.multimedia[0].url}"/>`
+      articleDiv.setAttribute(`id`, "articles")
 
+      articleSection.append(articleDiv)
+    
+      })
+    }
+    
+ ### Change Log
+ 
+* The changes made after the project prompt are as follows:
+* Change to the original format by moving to a "holy grail" design
+* Change to the search function by switching to a single input from three
+* Made an attempt to reap more records from the API but discarded that process after it was deemed too difficult for a P1 project in this class.
+    
+    
